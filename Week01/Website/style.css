@@ -1,0 +1,92 @@
+h1{
+    position: sticky;
+    text-align: center;
+    background-color: antiquewhite;
+    padding: auto;
+    font-size: 250%;
+}
+
+h1.T01{
+    position: sticky;
+    position: -webkit-sticky;
+    top: 0px;
+    padding: 5px;
+    margin: 0px;
+}
+
+.center{
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    margin-top: 3%;
+}
+
+div.bahan{
+    /*background-color: aliceblue;*/
+    color: aliceblue;
+    text-align: center;
+    font-size: 150%;
+    padding-right: 25%;
+    padding-left: 25%;
+
+}
+
+li{
+    display: flow-root;
+}
+
+div.body{
+    text-align: center;
+   /* background-color: beige; */
+    font-size: 125%;
+}
+
+body{
+    /* Old browsers */
+  background: #141E30;
+  /* Chrome 10-25, Safari 5.1-6 */
+  background: -webkit-linear-gradient(-45deg, #35577D, #141E30);
+  /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+  background: linear-gradient(-45deg, #35577D, #141E30);
+  margin: 0;
+  padding: 0;
+}
+
+.badan{
+    text-align: center;
+    color: aliceblue;
+    font-size: 150%;
+    width: 50%;
+    padding-left: 25%;
+    padding-right: 25%;
+}
+
+div.langkah{
+    text-align: center;
+    font-size: 150%;
+    padding-left: 25%;
+    padding-right: 25%;
+    color: aliceblue;
+}
+
+div.footer{
+    font-size: 125%;
+    background-color: black;
+    color: whitesmoke;
+    text-align: center;
+    padding-left: 75%;
+    
+}
+
+ul.aboutUs{
+    display: inline-block;
+    position: relative;
+    text-align: center;
+    right: 0%;
+}
+
+h1.logo{
+    top: 25%;
+    bottom: 25%;
+    margin-top: 25%;
+}
